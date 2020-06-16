@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "131865982732",
+    "firebase_url": "https://ceramic-be202.firebaseio.com",
+    "project_id": "ceramic-be202",
+    "storage_bucket": "ceramic-be202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131865982732:android:c88667ffefa2ef90a2fb29",
+        "android_client_info": {
+          "package_name": "com.example.ceramicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131865982732-eklcmvp93g2lf48ng3j8gencois7c26b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJK5ytMfw-ZQQifzCpRm0KHz85g_QrlFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131865982732-eklcmvp93g2lf48ng3j8gencois7c26b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
